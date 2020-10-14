@@ -1,2 +1,2 @@
 # StudyDL
-DL study
+this repository is my AI study recork
